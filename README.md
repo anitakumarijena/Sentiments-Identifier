@@ -1,5 +1,6 @@
 ## Project: Sentiments-Identifier
 
+It analysis the  Sentiment and interpretation and classification of emotions whether it is positive or negative comment with using  text data.
 ### Install
 
 This project requires **Python 3.x** and the following Python libraries installed:
